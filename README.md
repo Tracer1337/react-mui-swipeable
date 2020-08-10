@@ -51,7 +51,7 @@ import Swipeable from "react-mui-swipeable"
  *     moveOutOfScreen: true
  * }
  * 
- *swipeRightConfig: {
+ * swipeRightConfig: {
  *     color: "#BB86FC",
  *     icon: EditIcon,
  *     moveOutOfScreen: false
