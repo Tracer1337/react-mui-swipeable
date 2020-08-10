@@ -1,4 +1,4 @@
-### React Mui Swipeable
+# React Mui Swipeable
 
 A simple component for making elements swipeable
 
@@ -8,11 +8,11 @@ A simple component for making elements swipeable
 </Swipeable>
 ```
 
-#### Installation
+### Installation
 
 ``npm install react-mui-swipeable``
 
-#### Usage
+### Usage
 
 For the component to work proberly, the child must accept the style attribute. (If you use a DOM element, this will be the case)
 
@@ -26,7 +26,7 @@ import Swipeable from "react-mui-swipeable"
 <Swipeable>
 ```
 
-#### Available Props
+### Available Props
 
 ```js
 /*
