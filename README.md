@@ -1,6 +1,6 @@
 # React Mui Swipeable
 
-A simple component for making elements swipeable
+A simple component for making elements swipeable. It follows the material design pattern and uses [@material-ui](https://material-ui.com/) internally.
 
 ```jsx
 <Swipeable 
@@ -26,7 +26,7 @@ import Swipeable from "react-mui-swipeable"
 ```jsx
 <Swipeable>
     // Single child
-<Swipeable>
+</Swipeable>
 ```
 
 ### Available Props
@@ -41,7 +41,7 @@ import Swipeable from "react-mui-swipeable"
 [onSwipeLeft, onSwipeRight]: Function,
 
 /*
- * Seperate configurations for swiping left / right.
+ * Configurations for swiping left / right.
  * 
  * Default:
  * 
@@ -60,8 +60,10 @@ import Swipeable from "react-mui-swipeable"
 [swipeLeftConfig, swipeRightConfig]: {
     // Color of the background-surface exposed while swiping
     color: String,
+
     // Element which is renderer on the background-surface while swiping
     icon: ReactElement,
+
     // Whether the element should move back to the initial position when 
     // releasd or move out of screen
     moveOutOfScreen: Boolean
@@ -80,6 +82,7 @@ import Swipeable from "react-mui-swipeable"
 style: {
     // Color of the icon
     iconColor: String,
+
     // Styles applied to the child while swiping
     shadow: String,
     borderRadius: Number
