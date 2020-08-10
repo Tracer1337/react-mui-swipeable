@@ -1,20 +1,35 @@
 {
   "name": "react-mui-swipeable",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "A simple component for making elements swipeable",
   "main": "src/build.js",
   "scripts": {
     "build": ".\\node_modules\\.bin\\babel src/Swipeable.js --out-file src/build.js"
   },
-  "keywords": [],
+  "keywords": [
+    "react",
+    "swipe",
+    "swipeable".
+    "react-component"
+  ],
   "author": "Merlin Moelter",
   "license": "ISC",
-  "peerDependencies": {
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Tracer1337/react-mui-swipeable.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Tracer1337/react-mui-swipeable/issues"
+  },
+  "homepage": "https://github.com/Tracer1337/react-mui-swipeable",
+  "dependencies": {
     "animejs": "^3.2.0",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
     "@material-ui/core": "^4.11.0",
     "@material-ui/icons": "^4.9.1"
+  },
+  "peerDependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
   },
   "devDependencies": {
     "@babel/cli": "^7.10.5",
