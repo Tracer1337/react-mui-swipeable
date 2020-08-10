@@ -1,0 +1,25 @@
+{
+  "name": "react-mui-swipeable",
+  "version": "1.0.0",
+  "description": "A simple component for making elements swipeable",
+  "main": "src/build.js",
+  "scripts": {
+    "build": ".\\node_modules\\.bin\\babel src/Swipeable.js --out-file src/build.js"
+  },
+  "keywords": [],
+  "author": "Merlin Moelter",
+  "license": "ISC",
+  "peerDependencies": {
+    "animejs": "^3.2.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.9.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.10.5",
+    "@babel/core": "^7.11.1",
+    "@babel/preset-env": "^7.11.0",
+    "@babel/preset-react": "^7.10.4"
+  }
+}
