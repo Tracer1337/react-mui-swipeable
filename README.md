@@ -3,7 +3,10 @@
 A simple component for making elements swipeable
 
 ```jsx
-<Swipeable onSwipeLeft={() => console.log("Swipe Left")}>
+<Swipeable 
+    onSwipeLeft={() => console.log("Swipe Left")}
+    onSwipeRight={() => console.log("Swipe Right")}
+>
     <div>Swipe Me</div>
 </Swipeable>
 ```
