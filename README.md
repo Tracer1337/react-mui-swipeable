@@ -1,8 +1,8 @@
 # React Mui Swipeable
 
-A simple component for making elements swipeable. It follows the material design pattern and uses [@material-ui](https://material-ui.com/) internally.
-
 ### [Demo](https://wizardly-swanson-437f02.netlify.app/)
+
+A simple component for making elements swipeable. It follows the material design pattern and uses [@material-ui](https://material-ui.com/) internally.
 
 ```jsx
 <Swipeable 
