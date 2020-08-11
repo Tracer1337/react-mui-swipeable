@@ -22,6 +22,9 @@
     "url": "https://github.com/Tracer1337/react-mui-swipeable/issues"
   },
   "homepage": "https://github.com/Tracer1337/react-mui-swipeable",
+  "files": [
+    "src/*"
+  ],
   "dependencies": {
     "animejs": "^3.2.0",
     "@material-ui/core": "^4.11.0",
