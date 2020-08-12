@@ -1,6 +1,6 @@
 {
   "name": "react-mui-swipeable",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "A simple component for making elements swipeable",
   "main": "src/build.js",
   "scripts": {

@@ -2,13 +2,11 @@
 
 <p align="center">
     <a href="https://www.npmjs.com/package/react-mui-swipeable">
-        <img src="https://img.shields.io/bundlephobia/min/react-mui-swipeable" alt="Size"></a>
-
+        <img src="https://img.shields.io/bundlephobia/min/react-mui-swipeable" alt="Size" /></a>
     <a href="https://www.npmjs.com/package/react-mui-swipeable">
-        <img src="https://img.shields.io/npm/dm/react-mui-swipeable" alt="Downloads"></a>
-
+        <img src="https://img.shields.io/npm/dm/react-mui-swipeable" alt="Downloads" /></a>
     <a href="https://github.com/Tracer1337/react-mui-swipeable">
-        <img src="https://img.shields.io/github/stars/Tracer1337/react-mui-swipeable?style=social" alt="Stars"></a>
+        <img src="https://img.shields.io/github/stars/Tracer1337/react-mui-swipeable?style=social" alt="Stars" /></a>
 </p>
 
 ### [Demo](https://wizardly-swanson-437f02.netlify.app/)
